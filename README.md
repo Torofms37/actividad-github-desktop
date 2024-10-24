@@ -1,4 +1,4 @@
-# Logo Apple DarkMode
+# Trabajo con git y github
 
 Quiubo chicos, soy un nuevo desarrollador web que intenta hacer la tarea de "practicand github pages"
 
